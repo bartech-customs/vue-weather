@@ -1,4 +1,4 @@
-# Quasar App (weather-app)
+# Quasar - VUE JS  App (weather-app)
 
 A Quasar Framework app
 
@@ -18,5 +18,7 @@ quasar dev
 quasar build
 ```
 
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+### Api Key
+https://openweathermap.org/api 
+sign up - get api key, paste in code (/index.vue)
+
